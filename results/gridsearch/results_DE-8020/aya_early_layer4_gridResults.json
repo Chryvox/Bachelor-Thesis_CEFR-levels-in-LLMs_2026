@@ -1,0 +1,1919 @@
+[
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6910569105691057,
+    "elapsed_time": 980.04,
+    "rank": 1
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6910569105691057,
+    "elapsed_time": 1001.53,
+    "rank": 2
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6910569105691057,
+    "elapsed_time": 1045.4,
+    "rank": 3
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6910569105691057,
+    "elapsed_time": 1067.22,
+    "rank": 4
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6910569105691057,
+    "elapsed_time": 1111.14,
+    "rank": 5
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6910569105691057,
+    "elapsed_time": 1132.47,
+    "rank": 6
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6869918699186992,
+    "elapsed_time": 958.6,
+    "rank": 7
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6869918699186992,
+    "elapsed_time": 1023.56,
+    "rank": 8
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6869918699186992,
+    "elapsed_time": 1089.34,
+    "rank": 9
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6829268292682927,
+    "elapsed_time": 212.26,
+    "rank": 10
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6829268292682927,
+    "elapsed_time": 239.03,
+    "rank": 11
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6829268292682927,
+    "elapsed_time": 264.77,
+    "rank": 12
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6829268292682927,
+    "elapsed_time": 292.16,
+    "rank": 13
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6829268292682927,
+    "elapsed_time": 316.78,
+    "rank": 14
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6829268292682927,
+    "elapsed_time": 342.03,
+    "rank": 15
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6788617886178862,
+    "elapsed_time": 37.78,
+    "rank": 16
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6788617886178862,
+    "elapsed_time": 45.52,
+    "rank": 17
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6788617886178862,
+    "elapsed_time": 53.31,
+    "rank": 18
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6747967479674797,
+    "elapsed_time": 35.17,
+    "rank": 19
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6747967479674797,
+    "elapsed_time": 43.3,
+    "rank": 20
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6747967479674797,
+    "elapsed_time": 51.06,
+    "rank": 21
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6747967479674797,
+    "elapsed_time": 298.73,
+    "rank": 22
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6747967479674797,
+    "elapsed_time": 324.04,
+    "rank": 23
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6747967479674797,
+    "elapsed_time": 349.24,
+    "rank": 24
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 32.95,
+    "rank": 25
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 40.45,
+    "rank": 26
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 48.23,
+    "rank": 27
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 357.81,
+    "rank": 28
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 386.0,
+    "rank": 29
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 414.38,
+    "rank": 30
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 562.3,
+    "rank": 31
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 638.41,
+    "rank": 32
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6707317073170732,
+    "elapsed_time": 713.99,
+    "rank": 33
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6626016260162602,
+    "elapsed_time": 367.19,
+    "rank": 34
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6626016260162602,
+    "elapsed_time": 376.37,
+    "rank": 35
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6626016260162602,
+    "elapsed_time": 395.48,
+    "rank": 36
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6626016260162602,
+    "elapsed_time": 404.65,
+    "rank": 37
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6626016260162602,
+    "elapsed_time": 423.73,
+    "rank": 38
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6626016260162602,
+    "elapsed_time": 432.95,
+    "rank": 39
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6585365853658537,
+    "elapsed_time": 283.63,
+    "rank": 40
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6585365853658537,
+    "elapsed_time": 308.5,
+    "rank": 41
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6585365853658537,
+    "elapsed_time": 333.16,
+    "rank": 42
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6544715447154471,
+    "elapsed_time": 153.34,
+    "rank": 43
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6544715447154471,
+    "elapsed_time": 170.85,
+    "rank": 44
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6544715447154471,
+    "elapsed_time": 187.24,
+    "rank": 45
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6544715447154471,
+    "elapsed_time": 599.64,
+    "rank": 46
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6544715447154471,
+    "elapsed_time": 675.77,
+    "rank": 47
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6544715447154471,
+    "elapsed_time": 751.17,
+    "rank": 48
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 159.78,
+    "rank": 49
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 176.68,
+    "rank": 50
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 193.6,
+    "rank": 51
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 205.05,
+    "rank": 52
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 232.98,
+    "rank": 53
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 257.54,
+    "rank": 54
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 443.49,
+    "rank": 55
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 473.49,
+    "rank": 56
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6504065040650406,
+    "elapsed_time": 504.09,
+    "rank": 57
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 221.55,
+    "rank": 58
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 248.3,
+    "rank": 59
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 274.11,
+    "rank": 60
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 453.26,
+    "rank": 61
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 463.72,
+    "rank": 62
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 483.86,
+    "rank": 63
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 493.65,
+    "rank": 64
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 513.85,
+    "rank": 65
+  },
+  {
+    "config": {
+      "layers": [
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6463414634146342,
+    "elapsed_time": 524.25,
+    "rank": 66
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6422764227642277,
+    "elapsed_time": 146.95,
+    "rank": 67
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6422764227642277,
+    "elapsed_time": 164.7,
+    "rank": 68
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6422764227642277,
+    "elapsed_time": 181.44,
+    "rank": 69
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6382113821138211,
+    "elapsed_time": 1.57,
+    "rank": 70
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6382113821138211,
+    "elapsed_time": 6.25,
+    "rank": 71
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6382113821138211,
+    "elapsed_time": 10.92,
+    "rank": 72
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 3.14,
+    "rank": 73
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 4.7,
+    "rank": 74
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 7.82,
+    "rank": 75
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 9.38,
+    "rank": 76
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 12.47,
+    "rank": 77
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 14.02,
+    "rank": 78
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 108.67,
+    "rank": 79
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 124.05,
+    "rank": 80
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6341463414634146,
+    "elapsed_time": 138.2,
+    "rank": 81
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 76.86,
+    "rank": 82
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 79.31,
+    "rank": 83
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 81.99,
+    "rank": 84
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 84.47,
+    "rank": 85
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 87.16,
+    "rank": 86
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 89.63,
+    "rank": 87
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 92.78,
+    "rank": 88
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 95.94,
+    "rank": 89
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 98.4,
+    "rank": 90
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 113.68,
+    "rank": 91
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 128.9,
+    "rank": 92
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 142.9,
+    "rank": 93
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 797.01,
+    "rank": 94
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 857.72,
+    "rank": 95
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6300813008130082,
+    "elapsed_time": 919.64,
+    "rank": 96
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6260162601626016,
+    "elapsed_time": 582.76,
+    "rank": 97
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6260162601626016,
+    "elapsed_time": 659.21,
+    "rank": 98
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6260162601626016,
+    "elapsed_time": 734.41,
+    "rank": 99
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6260162601626016,
+    "elapsed_time": 813.7,
+    "rank": 100
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6260162601626016,
+    "elapsed_time": 874.76,
+    "rank": 101
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6260162601626016,
+    "elapsed_time": 936.44,
+    "rank": 102
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 22.75,
+    "rank": 103
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 23.66,
+    "rank": 104
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 24.61,
+    "rank": 105
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 25.51,
+    "rank": 106
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 26.44,
+    "rank": 107
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 27.38,
+    "rank": 108
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 28.29,
+    "rank": 109
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 29.19,
+    "rank": 110
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0001,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6178861788617886,
+    "elapsed_time": 30.1,
+    "rank": 111
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6056910569105691,
+    "elapsed_time": 104.09,
+    "rank": 112
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6056910569105691,
+    "elapsed_time": 119.13,
+    "rank": 113
+  },
+  {
+    "config": {
+      "layers": [
+        512,
+        256
+      ],
+      "lr": 0.001,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6056910569105691,
+    "elapsed_time": 134.12,
+    "rank": 114
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6056910569105691,
+    "elapsed_time": 780.03,
+    "rank": 115
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6056910569105691,
+    "elapsed_time": 841.56,
+    "rank": 116
+  },
+  {
+    "config": {
+      "layers": [
+        2048,
+        1024,
+        512,
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6056910569105691,
+    "elapsed_time": 903.21,
+    "rank": 117
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 14.86,
+    "rank": 118
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 15.77,
+    "rank": 119
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 16.63,
+    "rank": 120
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 17.49,
+    "rank": 121
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 18.36,
+    "rank": 122
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 19.23,
+    "rank": 123
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 20.09,
+    "rank": 124
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 20.97,
+    "rank": 125
+  },
+  {
+    "config": {
+      "layers": [
+        256
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.6016260162601627,
+    "elapsed_time": 21.84,
+    "rank": 126
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 55.67,
+    "rank": 127
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.001
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 58.05,
+    "rank": 128
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 100,
+      "alpha": 0.01
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 59.91,
+    "rank": 129
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 62.3,
+    "rank": 130
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.001
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 64.65,
+    "rank": 131
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 200,
+      "alpha": 0.01
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 66.48,
+    "rank": 132
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.0001
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 68.86,
+    "rank": 133
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.001
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 71.24,
+    "rank": 134
+  },
+  {
+    "config": {
+      "layers": [
+        512
+      ],
+      "lr": 0.0005,
+      "epochs": 500,
+      "alpha": 0.01
+    },
+    "test_acc": 0.5772357723577236,
+    "elapsed_time": 73.64,
+    "rank": 135
+  }
+]

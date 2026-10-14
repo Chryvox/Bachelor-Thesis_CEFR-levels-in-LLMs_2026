@@ -1,0 +1,3 @@
+Comparison Type,Mean Cosine Similarity,Standard Deviation,"Number of Pairs (ALL, no sampling)"
+"Same level, different language",0.95881873,0.026501872,949914
+"Different level, same language",0.9779389,0.027663054,1784430
